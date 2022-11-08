@@ -1,6 +1,7 @@
 # Creating interactive presentations on Binder with RISE
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapalacic/presentation_template/master?filepath=index.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapalacic/presentation_template/master?labpath=index.ipynb)
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/jupyter-rise/master?filepath=index.ipynb)
 
